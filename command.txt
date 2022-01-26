@@ -1,0 +1,10 @@
+git init	инициализация git
+
+git config --global user.name ""
+git config --global user.mail ""
+
+git config --list
+
+
+
+
